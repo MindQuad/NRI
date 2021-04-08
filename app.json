@@ -1,0 +1,26 @@
+{
+  "id": "09746e1e-548c-46fe-bf46-d3475ebdad4d",
+  "name": "NRI",
+  "publisher": "VOX",
+  "version": "1.0.0.5",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "application": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://NRI.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
